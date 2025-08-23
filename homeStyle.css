@@ -8,3 +8,7 @@
   font-weight: <weight>;
   font-style: normal;
 }
+
+.p-color{
+    color: rgba(8, 8, 8, 0.5);
+}
